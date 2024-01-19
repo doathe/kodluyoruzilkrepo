@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitiminde oluşturduğumuz ilk r
 
 Öncelikle projeyi clonelayın.
 
-' git clone https://github.com/doathe/kodluyoruzilkrepo.git '
+` git clone https://github.com/doathe/kodluyoruzilkrepo.git `
 
 ## Usage
 
@@ -16,10 +16,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
