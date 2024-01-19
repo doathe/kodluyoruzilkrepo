@@ -8,7 +8,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitiminde oluşturduğumuz ilk r
 
 Öncelikle projeyi clonelayın.
 
-` git clone https://github.com/doathe/kodluyoruzilkrepo.git `
+```
+git clone https://github.com/doathe/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
